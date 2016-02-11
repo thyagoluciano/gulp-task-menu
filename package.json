@@ -1,0 +1,31 @@
+{
+  "name": "gulp-task-menu",
+  "version": "1.0.0",
+  "description": "task menu interface for listing and executing your tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyagoluciano/gulp-task-menu.git"
+  },
+  "keywords": [
+    "gulp",
+    "task",
+    "menu"
+  ],
+  "dependencies": {
+    "inquirer": "^0.12.0"
+  },
+  "author": {
+    "name": "Thyago Luciano de Oliveira",
+    "email": "thyagoluciano@gmail.com",
+    "url": "http://www.thyagoluciano.com.br"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyagoluciano/gulp-task-menu/issues"
+  },
+  "homepage": "https://github.com/thyagoluciano/gulp-task-menu#readme"
+}
