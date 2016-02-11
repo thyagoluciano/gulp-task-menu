@@ -1,6 +1,11 @@
 ## gulp-task-menu
+[![NPM](https://nodei.co/npm/gulp-task-menu.png?downloads=true&downloadRank=true)](https://nodei.co/npm/gulp-task-menu/)
+
+
 
 > task menu plugin for [gulp](http://gulpjs.com/)
+
+
 
 ### Install
 
@@ -19,7 +24,7 @@ gulp.task('default', function (done) {
      * @param gulp
      * @param ignoreList []
      */
-    gulpTaskMenu(this, ['default']);
+    menu(this, ['default']);
 });
 
 gulp.task('genHTML', function () {});
